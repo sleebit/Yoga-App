@@ -1,11 +1,9 @@
 <h1 align="center">
   <br>
-  <a href="./assets/logo.png" alt="Yoga App" width="200">
-    <img src="./assets/logo.png" alt="Yoga App" width="200">
+  <a href="./assets/logo.png" alt="Yoga App">
+    <img src="./assets/logo.png" alt="Yoga App" width="350">
   </a>
 </h1>
-
-![Logo](https://{{ctx.theme}})
 
 <h4 align="center">
 This is the Official Github Repository for the Yoga App that will change the humanity's foreseeable future.
