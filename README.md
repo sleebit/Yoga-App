@@ -5,7 +5,7 @@
     <img src="./assets/logo.png" alt="Markdownify" width="200">
   </a>
 </h1>
-
+{{ctx.theme}}
 <h4 align="center">
 This is the Official Github Repository for the Yoga App that will change the humanity's foreseeable future.
 </h4>
