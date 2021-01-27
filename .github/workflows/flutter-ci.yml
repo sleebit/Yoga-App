@@ -39,4 +39,4 @@ jobs:
     - uses: actions/upload-artifact@v1
       with:
         name: Yoga App
-        path: build/app/outputs/apk/release/yoga-app.apk
+        path: build/app/outputs/apk/release/yoga-app-release.apk
