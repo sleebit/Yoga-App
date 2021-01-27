@@ -1,8 +1,7 @@
-
 <h1 align="center">
   <br>
   <a href="./assets/logo.png" alt="Yoga App" width="200">
-    <img src="./assets/logo.png" alt="Markdownify" width="200">
+    <img src="./assets/logo.png" alt="Yoga App" width="200">
   </a>
 </h1>
 
