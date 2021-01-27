@@ -5,6 +5,8 @@
   </a>
 </h1>
 
+![Logo](https://{{ctx.theme}})
+
 <h4 align="center">
 This is the Official Github Repository for the Yoga App that will change the humanity's foreseeable future.
 </h4>
