@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align="center">
-This is the Official Github Repository for the Yoga App that will change the humanity's foreseeable future.
+This is the Official Github Repository for the Yoga App that will change the humanity's foreseeable future.😜
 </h4>
 
 <p align="center">
